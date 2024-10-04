@@ -1,0 +1,8 @@
+Flask
+Flask-PyMongo
+Flask-Login
+numpy
+Pillow
+tensorflow
+joblib
+qrcode
